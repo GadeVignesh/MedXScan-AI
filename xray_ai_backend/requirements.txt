@@ -1,0 +1,14 @@
+Flask
+flask-cors
+torch
+torchvision
+tensorflow
+opencv-python
+numpy
+pillow
+scikit-learn
+transformers
+sentence-transformers
+faiss-cpu
+reportlab
+sacremoses

@@ -1,0 +1,7 @@
+venv/
+xray_ai_backend/venv/
+__pycache__/
+*.pyc
+.env
+xray_ai_backend/reports/
+xray_ai_backend/uploads/

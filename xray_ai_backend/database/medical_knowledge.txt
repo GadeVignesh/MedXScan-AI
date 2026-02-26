@@ -1,0 +1,245 @@
+[Disease: Pneumonia]
+Definition: Pneumonia is a serious infection of one or both lungs in which the air sacs (alveoli) fill with pus, fluid, or inflammatory material, impairing oxygen exchange.
+Causes: Bacterial (Streptococcus pneumoniae, Haemophilus influenzae, Klebsiella), viral (influenza, COVID-19, RSV), fungal (Aspergillus, Pneumocystis jirovecii in immunocompromised patients), or aspiration of food/liquids.
+X-ray Findings: Lobar or segmental consolidation appearing as white opacification. Air bronchograms may be visible within consolidated areas. Can be unilateral or bilateral depending on severity.
+Symptoms: High fever (38–40°C), productive cough with yellow or green sputum, pleuritic chest pain, shortness of breath, fatigue, chills, decreased breath sounds on auscultation.
+Diagnosis: Chest X-ray, sputum culture, blood cultures, CBC showing elevated WBC, procalcitonin levels. CT chest for complex cases.
+Treatment: Antibiotics for bacterial (amoxicillin, azithromycin, fluoroquinolones), antivirals for viral pneumonia, antifungals for fungal types. Oxygen support if SpO2 < 94%, IV fluids, hospitalization for severe cases.
+Complications: Sepsis, respiratory failure, lung abscess, pleural empyema, bacteremia.
+Prognosis: Good with timely treatment. Mortality increases with age, comorbidities, and delayed care.
+When to Seek Care: High fever exceeding 39°C, difficulty breathing, confusion, persistent chest pain, or SpO2 below 92%.
+Prevention: Pneumococcal vaccine, influenza vaccine, good hand hygiene, smoking cessation.
+
+--------------------------------------------------
+
+[Disease: Pleural Effusion]
+Definition: Pleural effusion is abnormal accumulation of fluid (transudate or exudate) in the pleural space between the lung and chest wall.
+Causes: Transudate — heart failure, cirrhosis, nephrotic syndrome. Exudate — infection (parapneumonic), malignancy, tuberculosis, pulmonary embolism, autoimmune disease (lupus, rheumatoid arthritis).
+X-ray Findings: Blunting of costophrenic angles (>200 mL fluid needed), homogeneous opacity at lung base, meniscus sign, mediastinal shift away from effusion in large collections, or shift toward effusion in trapped lung.
+Symptoms: Progressive shortness of breath, decreased breath sounds at lung base, dullness to percussion, pleuritic chest pain (with inflammatory causes), dry cough.
+Diagnosis: Chest X-ray, ultrasound (detects as little as 20 mL), CT chest, thoracentesis with fluid analysis (LDH, protein, cell count, culture, cytology).
+Treatment: Treat underlying cause. Thoracentesis for symptomatic relief or diagnostic sampling. Pleurodesis or indwelling pleural catheter for recurrent malignant effusions.
+Complications: Empyema if infected, trapped lung, respiratory failure from large untreated effusions.
+When to Seek Care: Severe breathing difficulty, rapid accumulation, signs of infection (fever, purulent fluid).
+
+--------------------------------------------------
+
+[Disease: Pneumothorax]
+Definition: Pneumothorax is the presence of air in the pleural space, causing partial or complete lung collapse.
+Types: Spontaneous (primary — young tall males, no lung disease; secondary — underlying lung disease), traumatic, tension (medical emergency — air accumulates under pressure).
+Causes: Rupture of subpleural blebs, trauma (rib fracture, penetrating injury), iatrogenic (post-procedure), COPD, Marfan syndrome, cystic fibrosis.
+X-ray Findings: Visible pleural line (thin white line) with absent lung markings peripheral to it. Tracheal deviation away from affected side in tension pneumothorax. Hyperlucency on affected side.
+Symptoms: Sudden sharp ipsilateral chest pain, shortness of breath, decreased breath sounds, hyperresonance on percussion. Tension pneumothorax: hypotension, tachycardia, tracheal deviation, cyanosis — emergency.
+Diagnosis: Chest X-ray (expiratory film increases sensitivity), ultrasound (absence of lung sliding), CT chest for occult cases.
+Treatment: Small (<2cm): observation and oxygen. Large or symptomatic: needle aspiration or chest tube (intercostal drain). Tension pneumothorax: immediate needle decompression followed by chest tube.
+When to Seek Care: Any sudden unexplained chest pain and breathlessness. Immediate emergency if signs of tension pneumothorax.
+
+--------------------------------------------------
+
+[Disease: Atelectasis]
+Definition: Atelectasis is collapse or incomplete inflation of a portion of the lung, reducing gas exchange capacity.
+Types: Resorptive (airway obstruction), compressive (pleural effusion, tumor), contraction (fibrosis), adhesive (surfactant deficiency).
+Causes: Mucus plugging, foreign body, tumor obstructing airway, post-surgical (anesthesia reduces surfactant), prolonged bed rest, pain-limited breathing.
+X-ray Findings: Increased opacity (white density), volume loss on affected side, elevated hemidiaphragm, mediastinal shift toward collapse, compensatory hyperinflation of adjacent lung.
+Symptoms: Mild to moderate dyspnea, reduced breath sounds, dullness on percussion. Often asymptomatic if small.
+Treatment: Incentive spirometry, chest physiotherapy, bronchodilators, bronchoscopy to remove obstruction, early ambulation post-surgery.
+When to Seek Care: Persistent breathing issues, fever suggesting secondary infection, worsening hypoxia.
+
+--------------------------------------------------
+
+[Disease: Cardiomegaly]
+Definition: Cardiomegaly is enlargement of the heart defined as a cardiothoracic ratio greater than 0.5 on chest X-ray.
+Causes: Hypertension, heart failure (dilated cardiomyopathy), valvular heart disease (aortic/mitral regurgitation), ischemic heart disease, pericardial effusion, myocarditis, congenital heart disease, arrhythmias (atrial fibrillation), obesity, anemia, thyroid disease.
+X-ray Findings: Cardiothoracic ratio >0.5 on PA view, globular heart shadow (pericardial effusion), pulmonary vascular congestion, Kerley B lines in heart failure, pleural effusions.
+Symptoms: Fatigue, dyspnea on exertion or at rest, orthopnea (breathlessness lying flat), ankle/leg edema, palpitations, reduced exercise tolerance.
+Diagnosis: ECG, echocardiogram (gold standard), cardiac MRI, BNP/NT-proBNP levels, thyroid function tests.
+Treatment: Treat underlying cause. ACE inhibitors, beta-blockers, diuretics for heart failure. Strict blood pressure control. Lifestyle modification (low salt diet, fluid restriction). Implantable devices (ICD, CRT) for advanced cases.
+When to Seek Care: Sudden severe breathlessness, chest pain, syncope, rapid weight gain from fluid retention, leg swelling.
+
+--------------------------------------------------
+
+[Disease: Pulmonary Edema]
+Definition: Pulmonary edema is accumulation of fluid in the lung interstitium and alveolar spaces, severely impairing oxygenation.
+Types: Cardiogenic (high pulmonary capillary pressure) and non-cardiogenic (ARDS, direct lung injury).
+Causes: Acute decompensated heart failure (most common), myocardial infarction, severe hypertension, fluid overload, kidney failure, ARDS, near-drowning, toxic inhalation, high altitude.
+X-ray Findings: Bilateral perihilar or diffuse fluffy opacities (bat-wing or butterfly pattern), Kerley B lines (interstitial edema), cardiomegaly, cephalization of pulmonary vessels (upper lobe diversion), pleural effusions.
+Symptoms: Severe progressive dyspnea, pink frothy sputum, orthopnea, tachypnea, tachycardia, widespread crackles on auscultation, cyanosis, anxiety, diaphoresis.
+Treatment: Medical emergency. Supplemental oxygen or NIV (CPAP/BiPAP), IV furosemide (diuresis), nitrates (vasodilation), morphine for anxiety, treat underlying cause. ICU care if not improving.
+When to Seek Care: Immediate emergency — acute breathlessness, frothy sputum, inability to lie flat, SpO2 dropping rapidly.
+
+--------------------------------------------------
+
+[Disease: Consolidation]
+Definition: Pulmonary consolidation is replacement of air in the alveoli with fluid, pus, blood, or cells, creating a solid-appearing density on imaging.
+Causes: Pneumonia (most common), pulmonary edema, pulmonary hemorrhage, lung infarction (post-embolism), bronchoalveolar carcinoma, ARDS.
+X-ray Findings: Homogeneous white opacity with air bronchograms (air-filled bronchi visible within solid density), lobar or segmental distribution, no volume loss (distinguishes from atelectasis).
+Symptoms: Productive cough, fever, pleuritic chest pain, dyspnea, bronchial breath sounds, increased vocal resonance on auscultation.
+Treatment: Antibiotics for infectious consolidation. Treat specific underlying cause. Monitor resolution on follow-up imaging (4–6 weeks).
+When to Seek Care: Persistent symptoms beyond 5–7 days, worsening hypoxia, systemic sepsis signs.
+
+--------------------------------------------------
+
+[Disease: Lung Lesion]
+Definition: A lung lesion is a broad term for any abnormal tissue change within the lung visible on imaging, ranging from benign to malignant.
+Types: Nodule (<3cm), mass (>3cm), cavity, cyst, ground-glass opacity.
+Causes: Infection (TB granuloma, fungal infection), primary lung cancer, metastatic cancer, hamartoma (benign), carcinoid tumor, abscess.
+X-ray Findings: Focal opacity, shadow, or density. Spiculated edges suggest malignancy. Smooth well-defined borders suggest benign. Cavitation suggests abscess or TB.
+Symptoms: Often asymptomatic initially. May present with persistent cough, hemoptysis, weight loss, chest pain in malignant cases.
+Diagnosis: CT chest (characterization), PET scan (metabolic activity), bronchoscopy, CT-guided biopsy, sputum cytology.
+When to Seek Care: Persistent cough >3 weeks, unexplained weight loss, hemoptysis, or any new lesion found on imaging — prompt follow-up essential.
+
+--------------------------------------------------
+
+[Disease: Lung Opacity]
+Definition: Lung opacity is a non-specific radiological finding describing increased radiodensity in lung tissue, appearing as white areas on X-ray.
+Types: Ground-glass opacity (GGO — hazy, vessels still visible), consolidation (dense, vessels obscured), reticular pattern, nodular pattern.
+Causes: Infection (pneumonia, COVID-19), pulmonary edema, hemorrhage, interstitial lung disease, malignancy, atelectasis, aspiration.
+X-ray Findings: White or grey areas of varying density. Distribution (unilateral/bilateral, upper/lower lobe), pattern, and associated features guide diagnosis.
+Symptoms: Depends entirely on the underlying cause — may range from asymptomatic to severe respiratory failure.
+When to Seek Care: Any new lung opacity on imaging requires clinical correlation. Seek care if accompanied by fever, dyspnea, or systemic symptoms.
+
+--------------------------------------------------
+
+[Disease: Lung Mass]
+Definition: A lung mass is a pulmonary lesion measuring greater than 3 cm in diameter, which carries a higher probability of malignancy than a nodule.
+Causes: Primary lung cancer (non-small cell: adenocarcinoma, squamous cell; small cell), pulmonary carcinoid, metastatic disease from breast, colon, kidney, or melanoma, lung abscess, fungal ball (aspergilloma).
+X-ray Findings: Rounded or irregular dense opacity >3cm. Spiculated (irregular spiky) margins, pleural tethering, or mediastinal involvement suggest malignancy. Cavitation with thick walls suggests abscess or squamous cell carcinoma.
+Symptoms: Persistent cough, hemoptysis (coughing blood), unintentional weight loss, chest pain, dyspnea, recurrent pneumonia, hoarseness (recurrent laryngeal nerve involvement), superior vena cava syndrome in advanced disease.
+Diagnosis: CT chest with contrast, PET-CT for staging, bronchoscopy, CT-guided biopsy, mediastinoscopy.
+Treatment: Depends on histology and stage. Surgery, radiation, chemotherapy, targeted therapy, immunotherapy for lung cancer.
+When to Seek Care: Any mass found on imaging requires urgent specialist referral. Do not delay — early stage treatment dramatically improves survival.
+
+--------------------------------------------------
+
+[Disease: Pulmonary Nodule]
+Definition: A pulmonary nodule is a rounded opacity ≤3 cm in the lung. The majority are benign but require monitoring based on size, characteristics, and risk factors.
+Causes: Benign — granuloma (healed TB, histoplasmosis), hamartoma, arteriovenous malformation. Malignant — primary lung cancer, metastasis.
+X-ray Findings: Small rounded or oval opacity. Size, density (solid, part-solid, ground-glass), margins (smooth vs spiculated), and calcification pattern help assess malignancy risk.
+Diagnosis: Low-dose CT (LDCT) for characterization. Fleischner Society guidelines dictate follow-up intervals based on size and risk.
+When to Seek Care: All newly discovered nodules require radiological follow-up. High-risk features (>8mm, spiculated, smoker) require urgent CT and possible PET/biopsy.
+
+--------------------------------------------------
+
+[Disease: Pulmonary Fibrosis]
+Definition: Pulmonary fibrosis is progressive scarring (fibrosis) of lung tissue causing irreversible stiffness and reduced gas exchange capacity.
+Types: Idiopathic pulmonary fibrosis (IPF — most severe), secondary fibrosis from connective tissue disease, hypersensitivity pneumonitis, drug-induced, radiation.
+Causes: Unknown (IPF), autoimmune (rheumatoid arthritis, scleroderma, lupus), repeated environmental exposures (bird droppings, mold), medications (amiodarone, methotrexate, nitrofurantoin), radiation therapy.
+X-ray Findings: Bilateral basal reticular (net-like) pattern, honeycombing (end-stage), reduced lung volumes, traction bronchiectasis on HRCT.
+Symptoms: Progressive exertional dyspnea (the cardinal symptom), dry non-productive cough, fatigue, clubbing of fingers, fine inspiratory crackles (Velcro crackles) at lung bases.
+Diagnosis: HRCT chest (gold standard — UIP pattern), pulmonary function tests (restrictive pattern: reduced FVC, DLCO), lung biopsy if diagnosis uncertain.
+Treatment: Antifibrotic agents (pirfenidone, nintedanib) slow progression in IPF. Treat underlying cause in secondary fibrosis. Oxygen therapy for hypoxia. Lung transplant for end-stage disease.
+Prognosis: IPF median survival 3–5 years from diagnosis. Early treatment and close monitoring essential.
+When to Seek Care: Worsening exertional breathlessness, new dry cough, or Velcro crackles on examination.
+
+--------------------------------------------------
+
+[Disease: Emphysema]
+Definition: Emphysema is permanent enlargement and destruction of the alveolar air spaces distal to the terminal bronchiole, causing air trapping and loss of elastic recoil.
+Causes: Smoking (>90% of cases), alpha-1 antitrypsin deficiency (genetic cause in young non-smokers), occupational dust and chemical exposure, air pollution.
+X-ray Findings: Hyperinflated lungs (increased AP diameter), flattened hemidiaphragms, increased retrosternal airspace, attenuated (thin) vascular markings, bullae (large air spaces).
+Symptoms: Progressive chronic breathlessness (initially on exertion, later at rest), barrel chest, use of accessory muscles, pursed-lip breathing, reduced breath sounds, prolonged expiration, weight loss in advanced disease.
+Diagnosis: Spirometry (obstructive pattern: FEV1/FVC <0.7, reduced FEV1), HRCT chest shows parenchymal destruction, DLCO reduced.
+Treatment: Smoking cessation (most important). Bronchodilators (LABA, LAMA), inhaled corticosteroids, pulmonary rehabilitation, oxygen therapy for chronic hypoxia, bullectomy or lung volume reduction surgery in selected patients, lung transplant for end-stage.
+When to Seek Care: Worsening breathlessness, acute exacerbation with increased cough/sputum/wheeze, SpO2 <88%.
+
+--------------------------------------------------
+
+[Disease: Pleural Thickening]
+Definition: Pleural thickening is scarring and fibrosis of the pleural lining, reducing lung expansion and compliance.
+Causes: Previous hemothorax or empyema, asbestos exposure (most common occupational cause — may indicate mesothelioma risk), tuberculosis, previous pleuritis, trauma, radiation therapy.
+X-ray Findings: Dense white pleural lines along the chest wall, blunted costophrenic angles, calcified pleural plaques (asbestos-related), reduced lung volume on affected side.
+Symptoms: Usually asymptomatic in mild cases. Exertional dyspnea with extensive thickening, restrictive lung function on PFTs.
+When to Seek Care: New respiratory symptoms in setting of known asbestos exposure requires urgent evaluation for mesothelioma. Regular monitoring if occupational history present.
+
+--------------------------------------------------
+
+[Disease: Diaphragmatic Hernia]
+Definition: Diaphragmatic hernia is abnormal protrusion of abdominal organs (stomach, bowel, spleen) through a defect in the diaphragm into the thoracic cavity.
+Types: Congenital (Bochdalek — posterior; Morgagni — anterior), acquired (traumatic), hiatal hernia (stomach through esophageal hiatus).
+Causes: Congenital diaphragmatic defect (CDH), blunt or penetrating abdominal/chest trauma, raised intra-abdominal pressure (obesity, pregnancy).
+X-ray Findings: Gas-filled loops of bowel or stomach visible in chest cavity, elevation of hemidiaphragm, mediastinal shift, absent or abnormal diaphragm outline.
+Symptoms: Respiratory distress (severe in neonatal CDH), chest pain, dysphagia, recurrent pulmonary infections, GI symptoms (vomiting, obstruction).
+Treatment: Surgical repair is definitive. Neonatal CDH is a surgical emergency.
+When to Seek Care: Immediate evaluation for unexplained bowel sounds in chest, respiratory distress, or traumatic chest injury.
+
+--------------------------------------------------
+
+[Disease: Enlarged Cardiomediastinum / Mediastinal Widening]
+Definition: Mediastinal widening is broadening of the mediastinal shadow beyond normal limits (>8cm on PA chest X-ray at aortic knuckle level).
+Causes: Aortic aneurysm or dissection (emergency), lymphoma or other mediastinal tumors, thymoma, sarcoidosis with lymphadenopathy, substernal goiter, pericardial effusion, traumatic aortic injury.
+X-ray Findings: Broad mediastinal silhouette, loss of normal mediastinal contours, tracheal deviation, splaying of carina, obliteration of aortopulmonary window.
+Symptoms: May be asymptomatic (incidental finding). Aortic dissection: tearing chest pain radiating to back, unequal pulses, pulse deficit. Lymphoma: B symptoms (fever, night sweats, weight loss), superior vena cava syndrome.
+When to Seek Care: Any mediastinal widening on chest X-ray requires urgent investigation. Aortic dissection is a life-threatening emergency requiring immediate CT angiography.
+
+--------------------------------------------------
+
+[Disease: Rib Fracture]
+Definition: A rib fracture is a break in one or more rib bones, usually from direct trauma, appearing as a discontinuity in the rib cortex on imaging.
+Causes: Blunt chest trauma (MVA, fall, assault), stress fractures (athletes, chronic cough), pathological fractures (osteoporosis, bone metastases, multiple myeloma).
+X-ray Findings: Cortical discontinuity or step-deformity in rib. Subtle non-displaced fractures may be missed on plain X-ray — CT is more sensitive. Look for associated pneumothorax, hemothorax, pulmonary contusion.
+Symptoms: Sharp localized chest pain worsening with breathing, coughing or movement, point tenderness on palpation, splinting (shallow breathing to avoid pain).
+Complications: Flail chest (≥3 consecutive ribs broken in ≥2 places — paradoxical breathing), pneumothorax, hemothorax, pulmonary contusion, pneumonia from hypoventilation.
+Treatment: Analgesia (NSAIDs, opioids, intercostal nerve block), deep breathing exercises, incentive spirometry to prevent atelectasis and pneumonia. Surgical stabilization for flail chest.
+When to Seek Care: Severe chest pain after trauma, difficulty breathing, SpO2 dropping, or if multiple rib fractures suspected.
+
+--------------------------------------------------
+
+[Disease: Tuberculosis (TB)]
+Definition: Tuberculosis is a chronic infectious disease caused by Mycobacterium tuberculosis, primarily affecting the lungs (pulmonary TB) but can affect any organ.
+Causes: Inhalation of M. tuberculosis droplets from an active TB patient. Risk factors: HIV/immunosuppression, malnutrition, crowded living, diabetes, smoking.
+X-ray Findings: Primary TB: hilar lymphadenopathy, lower/mid lobe infiltrates. Reactivation TB: upper lobe infiltrates, cavitation (thick-walled cavities), fibrotic scarring, calcified granulomas (Ghon focus), miliary pattern (tiny diffuse nodules) in disseminated TB.
+Symptoms: Chronic productive cough >3 weeks, hemoptysis, low-grade fever, drenching night sweats, significant weight loss, fatigue, anorexia.
+Diagnosis: Sputum AFB smear and culture (gold standard), GeneXpert MTB/RIF (rapid PCR), Mantoux test/IGRA, chest X-ray, CT chest.
+Treatment: Standard 6-month DOTS regimen: 2 months HRZE (isoniazid, rifampicin, pyrazinamide, ethambutol) + 4 months HR. Drug-resistant TB requires specialized longer regimens.
+When to Seek Care: Chronic cough with any constitutional symptoms (weight loss, night sweats, fever) — immediate sputum testing required.
+
+--------------------------------------------------
+
+[Disease: COVID-19 Pneumonia]
+Definition: COVID-19 pneumonia is viral pneumonia caused by SARS-CoV-2, characterized by bilateral ground-glass opacities and a distinctive radiological pattern.
+X-ray Findings: Bilateral peripheral lower lobe predominant ground-glass opacities, consolidation in severe cases, crazy-paving pattern on CT.
+Symptoms: Fever, dry cough, fatigue, loss of taste/smell (anosmia/ageusia), dyspnea, myalgia. Severe: respiratory failure, ARDS.
+Treatment: Supportive care, oxygen, dexamethasone (for oxygen-dependent patients), antivirals (nirmatrelvir/paxlovid for high-risk), antithrombotic prophylaxis.
+When to Seek Care: SpO2 < 94%, persistent chest pain, confusion, inability to stay awake.
+
+--------------------------------------------------
+
+[Disease: Lung Cancer]
+Definition: Lung cancer is a malignancy arising from the epithelium of the lung, the leading cause of cancer-related death worldwide.
+Types: Non-small cell (80%): adenocarcinoma (most common, peripheral), squamous cell (central, cavitating), large cell. Small cell (20%): central, highly aggressive, paraneoplastic syndromes.
+Risk Factors: Smoking (primary — 85% of cases), radon gas, asbestos, air pollution, occupational carcinogens, family history, prior lung disease.
+X-ray Findings: Peripheral mass or nodule, central mass causing hilar enlargement or collapse, cavitating lesion, pleural effusion, rib destruction, mediastinal widening from lymphadenopathy.
+Symptoms: Persistent cough, hemoptysis, chest pain, dyspnea, hoarseness, weight loss, recurrent infections, Pancoast syndrome (shoulder/arm pain from apex tumor), SVC syndrome.
+Diagnosis: CT chest, PET-CT for staging, bronchoscopy + biopsy, CT-guided biopsy, molecular testing (EGFR, ALK, PD-L1) to guide targeted therapy.
+When to Seek Care: Any unexplained hemoptysis, persistent cough >3 weeks, or suspicious mass — urgent specialist referral required. Do not delay.
+
+--------------------------------------------------
+
+[General: Normal Chest X-ray]
+Definition: A normal chest X-ray shows clear lung fields, normal heart size, intact bony structures, and well-defined mediastinal contours.
+Normal Findings: Clear black lung fields bilaterally, sharp costophrenic angles, cardiothoracic ratio <0.5, symmetric hilar structures, intact ribs and clavicles, trachea midline, smooth diaphragmatic contours.
+What It Means: A normal chest X-ray does not rule out all lung pathology (early interstitial disease, small nodules, and pulmonary embolism may not be visible). Clinical symptoms always take precedence over imaging alone.
+
+--------------------------------------------------
+
+[General: Understanding Chest X-ray Results]
+Definition: A chest X-ray (CXR) is a two-dimensional projection image of the thoracic structures using X-ray radiation.
+How to Read: Systematically assess — airways (trachea, carina), bones (ribs, spine, clavicles), cardiac silhouette (size, shape), diaphragm (level, contour), edges (pleural space, costophrenic angles), fields (lung parenchyma density), and soft tissues.
+Limitations: Overlapping structures reduce sensitivity. CT provides superior characterization. Small effusions (<200mL), small pneumothoraces, and early interstitial changes may be missed on plain X-ray.
+Important Note: A chest X-ray finding always requires clinical correlation with patient symptoms, history, and examination. Never interpret imaging in isolation.
+
+--------------------------------------------------
+
+[General: When to Seek Emergency Care]
+Emergency symptoms requiring immediate attention: Severe shortness of breath at rest, SpO2 below 90%, coughing up blood (hemoptysis), sudden sharp chest pain, tearing pain radiating to back (possible aortic dissection), loss of consciousness, cyanosis (blue lips/fingertips), severe chest trauma.
+Do not delay emergency care for these symptoms. Call emergency services or go directly to the nearest emergency department.
+
+--------------------------------------------------
+
+[General: MedXScan AI System]
+Definition: MedXScan is an AI-powered chest X-ray analysis system that uses deep learning (DenseNet-based model) to detect pulmonary and cardiac pathologies from uploaded chest X-rays.
+Capabilities: Detects conditions including Pneumonia, Atelectasis, Consolidation, Pleural Effusion, Cardiomegaly, Pulmonary Edema, Emphysema, Fibrosis, Lung Mass, Nodule, and more. Generates GradCAM heatmaps showing regions of concern. Produces automated PDF diagnostic reports.
+Limitations: MedXScan is a clinical decision support tool only. It is NOT a substitute for radiologist review or physician diagnosis. Results must always be interpreted in clinical context by a qualified healthcare professional.
+Accuracy: AI performance varies with image quality, patient positioning, and disease prevalence. False positives and negatives are possible.
+
+--------------------------------------------------
