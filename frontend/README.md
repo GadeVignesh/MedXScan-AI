@@ -1,1 +1,1 @@
-## This is the Frontent UI of MedXScan AI
+## This is the Frontend of MedXScan AI
