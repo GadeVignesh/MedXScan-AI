@@ -2,6 +2,7 @@ Flask
 flask-cors
 torch
 torchvision
+torchxrayvision==1.2.0
 opencv-python
 numpy
 pillow
