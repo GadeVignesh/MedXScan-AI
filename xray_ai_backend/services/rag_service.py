@@ -4,7 +4,7 @@ import time
 from collections import deque
 
 from groq import Groq
-from services.rag_retriever import retrieve_with_scores
+from xray_ai_backend.services.rag_retriever import retrieve_with_scores
 
 GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "")
 MODEL_NAME   = "llama-3.3-70b-versatile"
