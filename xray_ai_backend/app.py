@@ -1,12 +1,12 @@
 from dotenv import load_dotenv
 load_dotenv()
 
-from flask import Flask, jsonify
-from routes.xray_routes import xray_bp
-from routes.chatbot_routes import chatbot_bp
+from flask import Flask, jsonify, send_from_directory
 from flask_cors import CORS
-from flask import send_from_directory
 import os
+
+from xray_ai_backend.routes.xray_routes import xray_bp
+from xray_ai_backend.routes.chatbot_routes import chatbot_bp
 
 app = Flask(__name__)
 CORS(app)
@@ -24,15 +24,14 @@ def home():
 
 @app.route("/reports/<path:filename>")
 def download_report(filename):
-    reports_dir = os.path.join(os.getcwd(), "reports")
+    BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+    reports_dir = os.path.join(BASE_DIR, "reports")
 
     return send_from_directory(
         reports_dir,
         filename,
-        as_attachment=True 
+        as_attachment=True
     )
 
-
-
 if __name__ == "__main__":
-    app.run(debug=False)
+    app.run()
