@@ -12,3 +12,4 @@ faiss-cpu
 reportlab
 sacremoses
 gunicorn
+dotenv
