@@ -25,7 +25,6 @@ chatbot_bp = Blueprint("chatbot", __name__)
 MAX_QUESTION_LEN = 500
 MIN_QUESTION_LEN = 3
 
-
 def _get_prediction_context() -> str:
     try:
         last = get_last_prediction()
@@ -37,7 +36,7 @@ def _get_prediction_context() -> str:
     return ""
 
 
-def _validate_question(data) -> tuple:
+def _validate_question(data):
     if not data:
         return None, (jsonify({"error": "Request body must be JSON"}), 400)
 
@@ -57,7 +56,6 @@ def _validate_question(data) -> tuple:
 
     return question, None
 
-
 @chatbot_bp.route("/chat", methods=["POST"])
 def chat():
     data = request.get_json(silent=True)
@@ -74,15 +72,17 @@ def chat():
         )
     except Exception as e:
         print(f"[Chat] Error: {e}")
-        return jsonify({"error": "Failed to generate a response. Please try again."}), 500
+        return jsonify({"error": "Failed to generate response."}), 500
 
-    response = {"answer": answer, "question": question}
+    response = {
+        "answer": answer,
+        "question": question,
+    }
 
     if prediction_context:
         response["prediction_context"] = prediction_context
 
     return jsonify(response), 200
-
 
 @chatbot_bp.route("/chat/stream", methods=["POST"])
 def chat_stream():
@@ -96,8 +96,6 @@ def chat_stream():
     def generate_stream():
         try:
             import re
-
-            # ✅ FIXED ABSOLUTE IMPORT
             from xray_ai_backend.services.rag_retriever import retrieve_with_scores
 
             if not _groq_client:
@@ -142,7 +140,9 @@ def chat_stream():
 
             user_parts.append(f"[Medical Knowledge Base]\n{context_text}")
             user_parts.append(f"[Patient Question]\n{question}")
-            user_parts.append("Answer based only on the medical knowledge provided above.")
+            user_parts.append(
+                "Answer based only on the medical knowledge provided above."
+            )
 
             user_message = "\n\n".join(user_parts)
 
@@ -163,10 +163,12 @@ def chat_stream():
                 delta = chunk.choices[0].delta.content
                 if delta:
                     full_response += delta
-                    yield f"data: {delta.replace(chr(10), '\\n')}\n\n"
+                    safe_delta = delta.replace("\n", "\\n")
+                    yield f"data: {safe_delta}\n\n"
 
             if intent in DISCLAIMER_INTENTS:
-                yield f"data: {DISCLAIMER.replace(chr(10), '\\n')}\n\n"
+                safe_disclaimer = DISCLAIMER.replace("\n", "\\n")
+                yield f"data: {safe_disclaimer}\n\n"
 
             _chat_history.append(
                 {"question": question, "answer": full_response.strip()}
@@ -188,7 +190,6 @@ def chat_stream():
             "Access-Control-Allow-Origin": "*",
         },
     )
-
 
 @chatbot_bp.route("/chat/clear", methods=["POST"])
 def clear_chat():
